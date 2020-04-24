@@ -54,7 +54,7 @@
     "nexus": "0.21.0-next.4",
     "node-fetch": "2.6.0",
     "node-pty": "0.9.0",
-    "prettier": "2.0.4",
+    "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
     "rxjs": "6.5.5",
     "strip-ansi": "6.0.0",
